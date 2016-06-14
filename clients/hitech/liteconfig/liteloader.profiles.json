@@ -1,0 +1,8 @@
+{
+  "mods": {
+    "1.6.4": {
+      "macros": true,
+      "worldeditcui": true
+    }
+  }
+}
